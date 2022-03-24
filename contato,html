@@ -14,9 +14,13 @@
     <a href="aula.html">Aula</a>
     <a href="contato,html">Contato</a>
 </nav>
-<nav>
-    <h1>Aulas particulares de Programação</h1>
->
-</nav>
+<main>
+    <h1>Mùsicas para programação</h1>
+</main>
+
+   
+
+    
+
 </body>
 </html>
